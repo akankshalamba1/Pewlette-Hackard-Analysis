@@ -3,6 +3,8 @@
 ## Overview of analysis
 This project we are working with Pewlett Hackard is a large company boasting several thousand employees, and it's been around for a long time. As baby boomers begin to retire at a rapid rate, Pewlett Hackard is looking toward the future in two ways. First, it's offering a retirement package for those who meet certain criteria. Second, it's starting to think about which positions will need to be filled in the near future.The number of upcoming retirements will leave thousands of job openings. So we will be helping Bobby's manager for this analysis. 
 
+[Employee_database_Challenge](/queries.sql/Employees_Database_Challenge.sql)
+
 **Software used:** QuickDBD, PostgressSQL, PgAdmin 
 
 ## Result of Analysis
