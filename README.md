@@ -26,7 +26,18 @@ PostgressSQL and PgAdmin are used together to do the analysis. For this analysis
 [Employee_data](/queries.sql/Employees_Database.sql)
 
 - **Creating Retirement_tile table**
+
+![retirement_titles](https://user-images.githubusercontent.com/111251560/195489468-977dc0f2-f314-4bef-8758-c8491b50f983.png)
+
 - **Filtering latest job title**
+
+![distinct_on](https://user-images.githubusercontent.com/111251560/195489506-f93cfc48-64c9-41fe-b181-4c9e08a2b117.png)
+
 - **Calculating the total retiring count**
+
+![retiring_titles](https://user-images.githubusercontent.com/111251560/195489568-f21ca8b5-5a03-436f-a808-f5ccf1ea1da8.png)
+
 - **Finding membership eligibility**
+
+![membership](https://user-images.githubusercontent.com/111251560/195489587-5976a0a0-1646-4bbe-9487-ede553253852.png)
 
