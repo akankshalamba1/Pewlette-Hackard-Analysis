@@ -43,6 +43,14 @@ PostgressSQL and PgAdmin are used together to do the analysis. For this analysis
 
 ## Summary
 We could have 13,505 employees retireding as the silver tsunami approaches. This number is the number of people currently working for the company who worked for the company from 1985 to 1988 and those whose date of birth was between 1962 and 1965. 
+
 - **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 
+![mentor](https://user-images.githubusercontent.com/111251560/195493058-adf16396-b839-46de-9df5-a5109c77675e.png)
+
+
 - **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
+
+![role_to_fill](https://user-images.githubusercontent.com/111251560/195493113-462ac7a6-da92-4b3c-a2be-6d0b5e1924bf.png)
+
+![data](https://user-images.githubusercontent.com/111251560/195493213-26ccd695-8f88-44e5-89d0-3535804bef9d.png)
