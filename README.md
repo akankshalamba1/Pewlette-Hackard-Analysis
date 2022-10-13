@@ -21,7 +21,7 @@ PostgressSQL and PgAdmin are used together to do the analysis. For this analysis
 
 ![emp_data2](https://user-images.githubusercontent.com/111251560/195488926-c9c91666-c5db-484a-a0e3-ebdc022439de.png)
 
-[Employee_data](/queries/Employees_Database)
+[Employee_data](/queries.sql/Employees_Database.sql)
 
 - **Creating Retirement_tile table**
 - **Filtering latest job title**
