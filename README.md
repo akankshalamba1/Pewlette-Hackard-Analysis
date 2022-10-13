@@ -42,7 +42,7 @@ PostgressSQL and PgAdmin are used together to do the analysis. For this analysis
 ![membership](https://user-images.githubusercontent.com/111251560/195489587-5976a0a0-1646-4bbe-9487-ede553253852.png)
 
 ## Summary
-We could have 13,505 employees retireding as the silver tsunami approaches. This number is the number of people currently working for the company who worked for the company from 1985 to 1988 and those whose date of birth was between 1962 and 1965. 
+We could have 13,505 employees retiring soon as the silver tsunami approaches. This number is the number of people currently working for the company who worked for the company from 1985 to 1988 and those whose date of birth was between 1962 and 1965. The companies plan is to have these employees to mentor new hires that will be filling in for the retiring associates.
 
 [additional_analysis](/queries.sql/additional_analysis.sql)
 
@@ -52,7 +52,10 @@ We could have 13,505 employees retireding as the silver tsunami approaches. This
 
 
 - **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
+To calculate the total number of the roles that need to be filled we calculate it by calculating the total number of the employees that will be leaving from various departments.
 
 ![role_to_fill](https://user-images.githubusercontent.com/111251560/195493113-462ac7a6-da92-4b3c-a2be-6d0b5e1924bf.png)
+
+Role to be filled per departments:
 
 ![data](https://user-images.githubusercontent.com/111251560/195493213-26ccd695-8f88-44e5-89d0-3535804bef9d.png)
