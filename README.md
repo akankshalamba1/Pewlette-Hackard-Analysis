@@ -6,7 +6,8 @@ Software used:
 
 - QuickDBD:  this analysis included dealing with alot of data we used QuickDBD as a tool for declutering of data and building relationship between different databases. We used this tool to make a relationship diagram between tables. The ER Diagram is as follows:
 
-![/Resources/Employee_database_structure.png]
+![Employee_database_structure](https://user-images.githubusercontent.com/111251560/195484244-07f02bf6-a405-4cbe-a1d0-d29f3ea7658e.png)
+
 
 - PostgressSQL 
 - PgAdmin
