@@ -5,7 +5,7 @@ This project we are working with Pewlett Hackard is a large company boasting sev
 
 [Employee_database_Challenge](/queries.sql/Employee_Database_Challenge.sql)
 
-**Software used:** QuickDBD, PostgressSQL, PgAdmin 
+**Software used:** QuickDBD, PostgresSQL, PgAdmin 
 
 ## Result of Analysis
 
